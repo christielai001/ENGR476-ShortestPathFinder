@@ -1,0 +1,1 @@
+printf("\nCurrent Node: %s %d\n", current_node.label, current_node.value);

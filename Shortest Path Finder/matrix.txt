@@ -1,0 +1,8 @@
+   A 0        AB 2       AC 999999  AD 999999   AE 999999  AF 999999   AG 6        AH 999999 
+   BA 2       B 0        BC 7       BD 999999   BE 2       BF 999999   BG 999999   BH 999999 
+   CA 999999  CB 7       C 0        CD 3        CE 999999  CF 3        CG 999999   CH 999999 
+   DA 999999  DB 999999  DC 3       D 0         DE 999999  DF 999999   DG 999999   DH 2    
+   EA 999999  EB 2       EC 999999  ED 999999   E 0        EF 2        EG 1        EH 999999 
+   FA 999999  FB 999999  FC 3       FD 999999   FE 2       F 0         FG 999999   FH 2    
+   GA 6       GB 999999  GC 999999  GD 999999   GE 1       GF 999999   G 0         GH 4    
+   HA 999999  HB 999999  HC 999999  HD 2        HE 999999  HF 999999   HG 4        H 0 
